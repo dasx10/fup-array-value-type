@@ -1,0 +1,18 @@
+{
+  "name": "fup-array-value-type",
+  "version": "1.0.0",
+  "description": "array map helper",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasx10/fup-array-value-type.git"
+  },
+  "keywords": [
+    "array",
+    "type",
+    "maptype"
+  ],
+  "author": "Yevhenii Kleshchev <dasx10@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/dasx10/fup-array-value-type#readme"
+}
